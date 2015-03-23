@@ -14,4 +14,4 @@ Os ganhos possíveis são diversos, como por exemplo:
 
 Esta prova de conceito terá uma duração pré-definida após a qual a [Empresa] e a Cult of Bits vão tirar as conclusões finais. Os ganhos obtidos pela [Empresa] durante a prova de conceito são um benefício imediato e gratuito.
 
-[1]:	http://www.lojj.pt/hiper-e-supermercados/
+[1]:	http://www.lojj.pt
