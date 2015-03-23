@@ -5,7 +5,7 @@
 	<key>childOrder</key>
 	<array>
 		<string>Email Final</string>
-		<string>Documentos</string>
+		<string>Documentos com Raciocínios</string>
 	</array>
 	<key>createMarkedFile</key>
 	<true/>
