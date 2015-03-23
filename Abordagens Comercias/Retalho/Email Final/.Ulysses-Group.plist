@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Subject- Proposta de colaboração.md</string>
+		</array>
+		<array>
+			<string>Enquadramento deste email.md</string>
+		</array>
+		<array>
+			<string>Proposta concreta.md</string>
+		</array>
+		<array>
+			<string>Próximos passos em caso de interesse.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
