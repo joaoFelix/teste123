@@ -18,7 +18,7 @@ Esta iniciativa **não tem necessidade de investimento financeiro do vosso lado*
 
 A abrangência da solução é muito grande e as áreas de uso possíveis são várias:
 * departamentos de qualidade
- - departamentos de engenharia
+* departamentos de engenharia
 * departamentos de gestão de infra-estruturas (*facilities*)
 * departamentos de IT 
 * departamentos de vendas
